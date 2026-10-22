@@ -6,8 +6,6 @@ Gaussian vs Bootstrap Monte Carlo models, with corporate-action-adjusted NSE dat
 
 **Stocks:** RELIANCE, TCS, ICICIBANK, BHARTIARTL, LT  |  **Data:** NSE daily closes, 01-Jan-2021 to 31-Dec-2025  |  **Tools:** Python, pandas, NumPy, SciPy, matplotlib
 
-> Author: *[Your Name]* · [LinkedIn](#) · [GitHub](#)
-
 ---
 
 ## TL;DR
