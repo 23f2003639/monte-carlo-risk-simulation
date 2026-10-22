@@ -66,7 +66,7 @@ A third version, the **block bootstrap**, draws chunks of 10 consecutive days to
 ### Figures
 
 ![Gaussian simulation](images/gaussian.png)
-![Left tail comparison](images/tail_comparison.png)
+![Left tail comparison](images/left_tail_comparison.png)
 ![2025 backtest](images/back_test_result.png)
 
 ---
