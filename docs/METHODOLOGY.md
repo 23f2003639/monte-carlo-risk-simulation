@@ -293,3 +293,12 @@ Settings: 10,000 simulations, 252 trading days, ₹10,00,000, equal weights, ran
 - Kupiec, P. (1995). *Techniques for Verifying the Accuracy of Risk Measurement Models.* Journal of Derivatives.
 
 This is an educational project. It is not investment advice, and simulated results are not predictions of future performance.
+
+---
+
+<div align="center">
+
+[![Sridevi S](https://img.shields.io/badge/Sridevi%20S-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23f2003639)
+
+</div>
+
