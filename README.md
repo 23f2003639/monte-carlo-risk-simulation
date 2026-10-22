@@ -114,4 +114,11 @@ Fixed settings: 10,000 simulations, 252 days, ₹10,00,000, equal weights, rando
 
 **Want the details?** See [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md) for the full data-cleaning workflow, corporate-action table, Yahoo validation, every result table and a plain-English glossary.
 
-*Educational project. Not investment advice.*
+---
+
+<div align="center">
+
+[![Sridevi S](https://img.shields.io/badge/Sridevi%20S-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23f2003639)
+
+</div>
+
